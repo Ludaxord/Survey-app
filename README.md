@@ -1,3 +1,5 @@
+# THIS PROJECT IS REUPLOAD FROM SEPTEMBER 2018 IT HAS BEEN DISCONTINUED
+
 # Survey App
 
 Simple survey application that contains two section:
@@ -50,11 +52,3 @@ Simple survey application that contains two section:
  **USAGE**
 
  * When you successfully run application please go to Register tab and fill form. After send data please check Your email. Please on register type valid email because you will receive email.
-
- **TODO:**
-
- * statistics for picked answers from surveys.
-
- * blocking survey after picking it up.
-
- * correct design.

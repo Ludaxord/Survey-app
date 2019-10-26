@@ -1,4 +1,6 @@
-/SurveyAPI/bin
-/SurveyAPI/obj
+SurveyAPI/bin
+SurveyAPI/obj
 .idea
 /.idea
+.vs
+/.vs

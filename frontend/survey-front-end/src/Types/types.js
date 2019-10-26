@@ -1,0 +1,10 @@
+export const LOGIN_USER = "login_user";
+export const REGISTER_USER = "register_user";
+export const UNAUTH_USER = "unauth_user";
+export const AUTH_ERROR = "auth_error";
+export const GET_MESSAGE = "get_message";
+export const GET_HOME_PAGE_MESSAGE = "get_home_page_message";
+export const GET_SURVEY = "get_survey";
+export const GET_SURVEY_RESULTS = "get_survey_results";
+export const POST_SURVEY = "post_survey";
+export const GET_TITLES = "get_titles";

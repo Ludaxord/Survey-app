@@ -1,0 +1,14 @@
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/bin/Debug/netcoreapp2.1/SurveyAPI.deps.json
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/bin/Debug/netcoreapp2.1/SurveyAPI.runtimeconfig.json
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/bin/Debug/netcoreapp2.1/SurveyAPI.runtimeconfig.dev.json
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/bin/Debug/netcoreapp2.1/SurveyAPI.dll
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/bin/Debug/netcoreapp2.1/SurveyAPI.pdb
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.csprojAssemblyReference.cache
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.csproj.CoreCompileInputs.cache
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.RazorAssemblyInfo.cache
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.RazorAssemblyInfo.cs
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.AssemblyInfoInputs.cache
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.AssemblyInfo.cs
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.RazorTargetAssemblyInfo.cache
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.dll
+/Users/konraduciechowski/Projects/SurveyAPI/SurveyAPI/obj/Debug/netcoreapp2.1/SurveyAPI.pdb
